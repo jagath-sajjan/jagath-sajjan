@@ -20383,23 +20383,6 @@
       "instanceId": "widget_1787479592188_3"
     },
     {
-      "widgetId": "footer",
-      "name": "Footer Widget",
-      "position": {
-        "x": 0,
-        "y": 578
-      },
-      "size": {
-        "width": 800,
-        "height": 50
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 6,
-      "instanceId": "widget_1787479592188_4"
-    },
-    {
       "widgetId": "tech-stack",
       "name": "Tech-stack Widget",
       "position": {
@@ -20428,25 +20411,6 @@
       "visible": true,
       "zIndex": 6,
       "instanceId": "widget_1787479592188_5"
-    },
-    {
-      "instanceId": "widget_1787479642682",
-      "widgetId": "asciiprofile-heatmap",
-      "name": "Asciiprofile-heatmap Widget",
-      "position": {
-        "x": 0,
-        "y": 644
-      },
-      "size": {
-        "width": 780,
-        "height": 240
-      },
-      "config": {
-        "accentColor": "#ffa657"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 7
     }
   ],
   "globalStyles": {
