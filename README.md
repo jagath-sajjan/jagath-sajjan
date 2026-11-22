@@ -9,13 +9,13 @@
 
 - I’m looking for peeps **in cybersecurity**
 
-- All of my projects are available at [https://jagath.runs-on.dev/](https://jagath.runs-on.dev/)
+- All of my projects are available at [https://jagath.work/](https://jagath.work/)
 
-- I regularly write articles on [https://jagath.runs-on.dev/blog](https://jagath.runs-on.dev/blog)
+- I regularly write articles on [https://jagath.work/blog](https://jagath.work/blogs/index.html)
 
 - Ask me about **Security, Tech Concepts etc**
 
-- How to reach me **jagathsajjan09@gmail.com**
+- How to reach me **reach@jagath.work**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
